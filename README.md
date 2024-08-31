@@ -1,4 +1,4 @@
-# asscreed1
-assasin's creed 1 map
+# might-and-magic-8-maps
+might and magic 8 maps
 
-engine version 1.267
+engine version 1.26
